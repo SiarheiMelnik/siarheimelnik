@@ -1,2 +1,5 @@
-# siarheimelnik
-My npm card 
+My npm card
+# Usage
+```
+npx siarheimelnik
+```
